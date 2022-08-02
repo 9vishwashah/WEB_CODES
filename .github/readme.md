@@ -1,5 +1,5 @@
 [visit] (https://github.com/9vishwashah/WEB_CODES)
-|  #  | Project                                                                                                                     | Live Demo                                                                         |
+|  #  | CODE                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/9vishwashah/WEB_CODES/tree/main/EXPANDING_CARDS) 
 
