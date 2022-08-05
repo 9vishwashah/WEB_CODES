@@ -1,8 +1,6 @@
 # WEB_CODES  [HTML/CSS and JavaScript]
 
 This is the main repository for all of the projects in this Repo
-
--   [Course Info Website](https://50projects50days.com) 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 
